@@ -46,5 +46,8 @@ title: O projektu
 ## vizuální inspirace:
 
 ## Obsah: 
+              Všechny témata bych čerpala z knihy *The Library Marketing Toolkit*, kterou napsal Ned Potter. 
+              //jednotlivé body obsahu doplním :-) 
 
 ## Strategie zveřejňování: 
+              Vkládání postupně, zveřejňovat můžeme hned po vkládní nebo i v nějakých intervalech. :-)
