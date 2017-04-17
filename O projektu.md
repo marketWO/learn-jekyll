@@ -7,7 +7,8 @@ title: O projektu
                     Naší cílovou skupinou jsou ti, které toto téma zajímá. Můžou to být lidé, kteří chtějí začít propagovat nejen svou knihovnu ale klidně nějakou akci nebo sbírku, kterou pořádají. 
 
 ## Cíl webu: 
-
+  Cílem by bylo informovat širokou veřejnost, ale i knihovníky o marketingu, který by fungoval v knihovnách.
+  
 ## 5 webových zdrojů:  
                     http://www.inflow.cz/marketing-v-knihovnach-cast-i
 
