@@ -8,14 +8,22 @@ Cílová skupina:  Naší cílovou skupinou jsou ti, které toto téma zajímá.
 Cíl webu: 
 
 5 webových zdrojů:  http://www.inflow.cz/marketing-v-knihovnach-cast-i
+
                     http://www.inflow.cz/marketing-v-knihovnach-cast-ii
+                    
                     http://marketing.knihovna.cz
+                    
                     http://oldknihovna.nkp.cz/knihovnaplus132/lonska.htm
+                    
                     http://www.inflow.cz/propagace-knihoven-na-facebooku
+                    
                     https://ikaros.cz/klicove-slovo/propagace-knihoven
+                    
                     https://www.latrine.cz/co-by-vas-vratilo-do-knihoven
 
-5 ne-webových zdrojů: https://www.slideshare.net/barabuchtova/jak-propagovat-knihovnu
+
+5 ne-webových zdrojů:
+                      https://www.slideshare.net/barabuchtova/jak-propagovat-knihovnu
 
                       KOTLER, Philip, Dipak JAIN a Suvit MAESINCEE. Marketing v pohybu: Nový přístup k zisku, růstu a obnově. Management                       Press, 2007. ISBN 8072611614.
                       
@@ -27,7 +35,9 @@ Cíl webu:
 
                      
 multimédia:   https://www.youtube.com/watch?v=FtMVHVRhEwE 
+
               https://www.youtube.com/watch?v=41I0NFwChcM
+
               https://www.youtube.com/watch?v=VCXAS49u4R4
 
 vizuální inspirace:
