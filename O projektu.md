@@ -45,7 +45,7 @@ title: O projektu
               https://www.youtube.com/watch?v=VCXAS49u4R4
 
 ## vizuální inspirace:
-
+              The Library Marketing Toolkit by Ned Potter
 ## Obsah: 
               Všechny témata bych čerpala z knihy *The Library Marketing Toolkit*, kterou napsal Ned Potter. Nadpisy by zůstaly v orginálech, ale samotný popis všech bodů bude česky. 
 ### Introduction
@@ -131,3 +131,6 @@ title: O projektu
               Vkládání postupně, zveřejňovat můžeme hned po vkládání nebo i v nějakých intervalech.
               
 ## O nás autorkách
+      Jmenujeme se Markéta Wolna a Sára Hrabalová a je nám 21 a 19 let. 
+      Studujeme Informační Studia a Knihovnictví na Masarykově Univerzitě v Brně.
+      Tento projekt je součástí předmětu **Nástroje a Možnosti Internetu - NAMI**.
