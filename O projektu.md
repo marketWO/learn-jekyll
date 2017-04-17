@@ -46,8 +46,85 @@ title: O projektu
 ## vizuální inspirace:
 
 ## Obsah: 
-              Všechny témata bych čerpala z knihy *The Library Marketing Toolkit*, kterou napsal Ned Potter. 
-              //jednotlivé body obsahu doplním :-) 
+              Všechny témata bych čerpala z knihy *The Library Marketing Toolkit*, kterou napsal Ned Potter. Nadpisy by zůstaly v orginálech, ale samotný popis všech bodů bude česky. 
+### Introduction
+  - About marketing
+  - About this book  
+### 1. Seven key concepts for marketing libraries
+  - The seven concepts
+  - Anchoring these ideas in marketing theory  
+### 2. Strategic marketing
+  - The marketing cycle
+  - 1: Decide on your goals
+  - 2: Market research
+  - 3: Segmentation
+  - 4: Set objectives
+  - 5: Promotional activities
+  - 6: Measurement
+  - 7: Evaluation
+  - 8: Modification
+  - Developing a marketing plan  
+### 3. The library brand
+  - Quick definitions
+  - What is library branding?
+  - Visual identity
+  - Merchandise
+  - Slogans
+  - Branding and marketing a converged library and IT service  
+### 4. Marketing and the library building
+  - Library design
+  - Signs and displays
+  - Marketing the library as space  
+### 5. An introduction to online marketing
+  - The library website
+  - Search Engine Optimization (SEO)
+  - Mobile websites
+  - E-mail  
+### 6. Marketing with social media
+  - Do your patrons use social media?
+  - General principles of marketing with social media
+  - Twitter
+  - Facebook
+  - Blogs and blogging
+  - Tumblr
+  - Google+ 
+  - LinkedIIn 
+  - Conclusion  
+### 7. Marketing with new technologies
+  - Quick definitions
+  - Video marketing 
+  - Image sharing
+  - QR Codes
+  - Geolocational apps 
+  - Web 20 catalogues and live chat
+  - Podcasts 
+  - Wikis
+  - Slide sharing 
+  - Viral marketing
+  - Technology and teenagers  
+### 8. Marketing and people
+  - Collaborating with people
+  - Reaching people  
+### 9. Internal marketing
+  - The importance of internal marketing
+  - Marketing to internal stakeholders
+  - Marketing with internal stakeholders: co-operative promotion  
+### 10. Library advocacy as marketing
+  - National campaigns and local marketing 
+  - Promoting your library in response to criticism of libraries in general
+  - Advocacy, promotion and positive messages 
+  - The library media narrative
+  - Trojan horse advocacy  
+### 11. Marketing special collections and archives
+  - Introduction
+  - Access, access, access: marketing digital collections
+  - Genealogy
+  - Tailoring your marketing to fit the cultural landscape
+  - Mounting and promoting a more traditional exhibition
+  - Learning from museums
+  - Crowdsourcing
+  - Marketing audiovisual materials
+  - A final word on marketing libraries
 
 ## Strategie zveřejňování: 
-              Vkládání postupně, zveřejňovat můžeme hned po vkládní nebo i v nějakých intervalech. :-)
+              Vkládání postupně, zveřejňovat můžeme hned po vkládání nebo i v nějakých intervalech.
