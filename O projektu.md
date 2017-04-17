@@ -3,11 +3,13 @@ layout: page
 title: O projektu
 ---
 
-Cílová skupina:  Naší cílovou skupinou jsou ti, které toto téma zajímá. Můžou to být lidé, kteří chtějí začít propagovat nejen svou knihovnu ale klidně nějakou akci nebo sbírku, kterou pořádají. 
+## Cílová skupina:
+                    Naší cílovou skupinou jsou ti, které toto téma zajímá. Můžou to být lidé, kteří chtějí začít propagovat nejen svou knihovnu ale klidně nějakou akci nebo sbírku, kterou pořádají. 
 
 Cíl webu: 
 
-5 webových zdrojů:  http://www.inflow.cz/marketing-v-knihovnach-cast-i
+## 5 webových zdrojů:  
+                    http://www.inflow.cz/marketing-v-knihovnach-cast-i
 
                     http://www.inflow.cz/marketing-v-knihovnach-cast-ii
                     
@@ -22,7 +24,7 @@ Cíl webu:
                     https://www.latrine.cz/co-by-vas-vratilo-do-knihoven
 
 
-5 ne-webových zdrojů:
+## 5 ne-webových zdrojů:
                       https://www.slideshare.net/barabuchtova/jak-propagovat-knihovnu
 
                       KOTLER, Philip, Dipak JAIN a Suvit MAESINCEE. Marketing v pohybu: Nový přístup k zisku, růstu a obnově. Management                       Press, 2007. ISBN 8072611614.
@@ -34,14 +36,15 @@ Cíl webu:
                       ANTLOVÁ, Martina. Propagace knihoven a jejich služeb [online]. Brno, 2006 [cit. 2017-04-17]. Dostupné z:                                 https://is.muni.cz/th/74203/ff_b/MASARYKOVA_UNIVERZITA_V.pdf. Bakalářská práce. Masarykova Univerzita, Filozofická                       fakulta, Ústav české literatury a knihovnictví, Kabinet knihovnictví. Vedoucí práce Mgr. Petr Škyřík.
 
                      
-multimédia:   https://www.youtube.com/watch?v=FtMVHVRhEwE 
+## multimédia:   
+              https://www.youtube.com/watch?v=FtMVHVRhEwE 
 
               https://www.youtube.com/watch?v=41I0NFwChcM
 
               https://www.youtube.com/watch?v=VCXAS49u4R4
 
-vizuální inspirace:
+## vizuální inspirace:
 
-Obsah: 
+## Obsah: 
 
-Strategie zveřejňování: 
+## Strategie zveřejňování: 
