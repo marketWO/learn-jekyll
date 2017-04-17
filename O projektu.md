@@ -129,3 +129,5 @@ title: O projektu
 
 ## Strategie zveřejňování: 
               Vkládání postupně, zveřejňovat můžeme hned po vkládání nebo i v nějakých intervalech.
+              
+## O nás autorkách
